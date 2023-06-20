@@ -5,7 +5,7 @@
 
 - 👨‍💻 MY PROFIL [https://andrisyahputra.github.io/](https://andrisyahputra.github.io/)
 
-- 📫 How to reach me **andrisyahputra@gmail.com**
+- 📫 How to reach me **andrisyahputra2209@gmail.com**
 
 - ⚡ Fun CODE **every day without code**
 
