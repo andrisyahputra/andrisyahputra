@@ -1,7 +1,7 @@
 <h1 align="center">Perkenalkan 👋, Saya Andri Syahputra</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 Software Developer **Project web and android**
+- 🔭 Software Developer **Project website and mobile**
 
 - 👨‍💻 MY PROFIL [https://andrisyahputra.github.io/](https://andrisyahputra.github.io/)
 
